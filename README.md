@@ -9,7 +9,7 @@ A simple web application that displays your device's battery level and charging 
 - 🎨 Clean, modern UI with responsive design
 
 ## Live Demo
-Check out the live demo: [https://iam269.github.io/Detect-Battery-Status/](https://iam269.github.io/Detect-Battery-Status/)
+Check out the live demo: [https://itsiamdev.github.io/Detect-Battery-Status/](https://itsiamdev.github.io/Detect-Battery-Status/)
 
 ## Technologies Used
 - HTML5
